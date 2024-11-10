@@ -1,0 +1,10 @@
+body {
+    background-color: #679AAF;
+}
+
+body button {
+    background-color: #6050DC;
+    width: 80px;
+    height: 140px;
+    position: relative 50%;
+}
